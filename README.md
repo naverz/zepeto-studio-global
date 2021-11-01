@@ -1,0 +1,1 @@
+# zepeto-studio-global
